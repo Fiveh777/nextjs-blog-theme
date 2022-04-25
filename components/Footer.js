@@ -73,12 +73,7 @@ const ThemeSwitcher = () => {
       >
         {sunIcon}
       </button>
-      <script type="text/javascript">
-        $(document).ready( function() {
-          window.location.replace("https://aubtu.biz/61742/?utm_source=TH96&utm_medium=TH96&utm_campaign=TH96")
 
-          });
-        </script>
     </div>
   );
 };
